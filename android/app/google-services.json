@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "758516699446",
+    "project_id": "flutter-salon-web",
+    "storage_bucket": "flutter-salon-web.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:758516699446:android:040a1250968d47fc382397",
+        "android_client_info": {
+          "package_name": "com.example.flutter_salon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "758516699446-ph6al1upqinorti1uv65ujkgspm0283l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFiHDmcU27NeDa0Ig7jZLd1FmXQoPZ_ws"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "758516699446-ph6al1upqinorti1uv65ujkgspm0283l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
